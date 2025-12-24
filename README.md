@@ -1,27 +1,24 @@
-# 👋 Olá, eu Clarivaldo
+# 👋 Olá, eu sou Clarivaldo
 
-🎓 Estudante de Técnico Integrado em Informática no IFRN – Campus João Câmara  
-🎮 Desenvolvedor Júnior de Jogos Educacionais  
-🧬 Projeto atual: Cellvoltion
+## 💻 Desenvolvedor em formação | Tecnologia & Programação
 
----
-
-## 🛠 Tecnologias
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Repositórios](https://img.shields.io/badge/Meus%20Repositórios-black?style=for-the-badge&logo=github)](https://github.com/Clarivaldo)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Linguagens e Tecnologias
 
-- 🧬 *Jogo Educacional de Biologia*  
-  Continuação e aprimoramento de jogo digital para apoio ao ensino de Biologia, desenvolvido em Unity e C#.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+## 📈 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clarivaldo&show_icons=true&theme=dark)
