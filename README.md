@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu Clarivaldo
 
-<!--
-**Clarivaldo/Clarivaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Técnico Integrado em Informática no IFRN – Campus João Câmara  
+🎮 Desenvolvedor Júnior de Jogos Educacionais  
+🧬 Projeto atual: Cellvoltion
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+- 🧬 *Jogo Educacional de Biologia*  
+  Continuação e aprimoramento de jogo digital para apoio ao ensino de Biologia, desenvolvido em Unity e C#.
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
