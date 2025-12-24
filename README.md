@@ -2,7 +2,7 @@
 
 ## 💻 Desenvolvedor em formação | Tecnologia & Programação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/clarivaldo-antonio-331bb339b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clarivaldo-antonio-331bb339b)
 [![Repositórios](https://img.shields.io/badge/Meus%20Repositórios-black?style=for-the-badge&logo=github)](https://github.com/Clarivaldo)
 
 ---
